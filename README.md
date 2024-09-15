@@ -1,34 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Yesha Joshi - Personal Portfolio
 
-## Getting Started
+📍 Boston, MA | ✉️ [joshi.ye@northeastern.edu](mailto:joshi.ye@northeastern.edu)  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-link) | 🔗 [GitHub](https://github.com/your-link) | 🌐 [Portfolio](https://your-portfolio-link)
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## 👋 Introduction
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Hey everyone! This is my portfolio. It showcases my work and skills, utilizing the latest **Next.js 13** features:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js App Router**
+- **Next.js Server Actions**
+- **Client & Server Components**
+- **TypeScript** (Beginner & Intermediate)
+- **Tailwind CSS**
+- **Context API**
+- **Advanced Animations with Framer Motion**
+- **React.Email & Resend**
+- **Custom React Hooks**
+- **Fresh, Modern UI Design**
+- **Light & Dark Mode**
+- **Responsive Website**
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+## 👩‍💻 About Me
 
-To learn more about Next.js, take a look at the following resources:
+I am currently pursuing a **Master of Science in Software Engineering Systems** at **Northeastern University**, Boston, with a strong focus on **Web Development** and **Data Engineering**. I have hands-on experience building scalable web applications, efficient data pipelines, and collaborating with cross-functional teams.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🛠️ Technologies
 
-## Deploy on Vercel
+- **Languages**: HTML, CSS, JavaScript, Python, Java, C++
+- **Frameworks**: React.js, Vue.js, Spring Boot
+- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Tools**: Git, Docker, AWS, CI/CD
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🌱 Projects
+
+- **CareerCraft AI**: An AI-driven platform for career path recommendations.
+- **Task Management (Kanban)**: A drag-and-drop task management tool using React.
+- **Healthcare Management App**: An end-to-end healthcare system to improve operational efficiency.
+
+---
+
+## 📫 Contact Me
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-link) or explore my work on [GitHub](https://github.com/your-link).
