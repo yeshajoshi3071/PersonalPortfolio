@@ -26,7 +26,7 @@ Hey everyone! This is my portfolio. It showcases my work and skills, utilizing t
 
 ## 👩‍💻 About Me
 
-I am currently pursuing a **Master of Science in Software Engineering Systems** at **Northeastern University**, Boston, with a strong focus on **Web Development** and **Data Engineering**. I have hands-on experience building scalable web applications, efficient data pipelines, and collaborating with cross-functional teams.
+I am currently pursuing a **Master of Science in Software Engineering Systems** at **Northeastern University**, Boston, with a strong focus on **Software Engineering** and **Data Engineering**. I have hands-on experience building scalable web applications, efficient data pipelines, and collaborating with cross-functional teams.
 
 ---
 
